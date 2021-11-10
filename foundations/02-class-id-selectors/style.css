@@ -1,0 +1,19 @@
+.alert-txt{
+    background-color: rgb(255, 181, 191);
+    font-family: Verdana, sans-serif;
+}
+
+.big-font{
+    font-size: 24px;
+}
+
+#blue-txt{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green-txt{
+    background-color: hsl(133, 94%, 69%);
+    font-size: 24px;
+    font-weight: bold;
+}
