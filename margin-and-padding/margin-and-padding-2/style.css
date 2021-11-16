@@ -7,21 +7,39 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  /* my answers: */
+  padding: 6px;
 }
 
 .title {
   background: #e3f4ff;
+  /* my answers: */
+  font-size: 18px;
+  margin: 0px 0px 6px;
+  padding: 6px;
 }
 
 .content {
   background: #e3f4ff;
+  /* my answers: */
+  margin-bottom: 6px;
+  padding: 15px 6px;
 }
 
 .button-container {
   background: #e3f4ff;
+  /* my answers: */
+  padding: 6px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  /* my answers: */
+  font-size: 14px;
+  display: block;
+  width: 140px;
+  height: 36px;
+  margin: 0 auto;
 }
